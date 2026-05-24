@@ -71,7 +71,7 @@ tourism-dashboard/
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/your-username/tourism-dashboard.git
+git clone https://github.com/ramesh-2003-krishan/SriLanka-Tourism-Dashboard.git
 cd tourism-dashboard
 ```
 
